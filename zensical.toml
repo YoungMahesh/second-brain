@@ -1,7 +1,7 @@
 [project]
 site_name = "Universal Documentation"
 site_description = "Knowledge vault for software engineering, system architecture, tools, and domain knowledge."
-site_url = "https://example.com"
+site_url = "https://youngmahesh.github.io/universal_documentation/"
 docs_dir = "docs"
 site_dir = "site"
 
