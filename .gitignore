@@ -13,3 +13,10 @@
 copilot/
 
 __pycache__/
+*.pyc
+
+# Zensical build output and staged docs
+/docs/
+/site/
+.venv/
+.cache/

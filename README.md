@@ -23,7 +23,7 @@ Operational developer workflows, environments, command-line tools, and runtime c
 - **Containers & Orchestration**: [docker](20_Tooling/docker/docker.md), [docker-compose](20_Tooling/docker/docker-compose.md), [kubernetes](20_Tooling/docker/kubernetes.md), [traefik-proxy](20_Tooling/docker/domain/traefik-proxy.md)
 - **Testing**: [playwright](20_Tooling/testing/playwright/playwright.md), [locators](20_Tooling/testing/playwright/locators/locators.md)
 - **System & Hardware**: [bluetooth](20_Tooling/system/bluetooth.md), [audio](20_Tooling/system/audio.md), [keyboard](20_Tooling/system/keyboard.md), [snap-store](20_Tooling/system/snap-store.md), [system-setup](20_Tooling/system/system-setup.md)
-- **Documentation Tools**: [docs-quartz](20_Tooling/docs/docs-quartz.md), [mermaid-diagrams](20_Tooling/docs/mermaid-diagrams.md)
+- **Documentation Tools**: [docs-quartz](20_Tooling/docs/docs-quartz.md), [zensical](20_Tooling/docs/zensical.md), [mermaid-diagrams](20_Tooling/docs/mermaid-diagrams.md)
 
 ### 30_Domains
 Specialized vertical domains, applied platforms, and production systems.
