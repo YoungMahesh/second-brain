@@ -89,7 +89,7 @@ systemctl --user status myapp
 
 ---
 
-[Problem solved by sysetm](./systemd_problem-solved.md)
+[Problem solved by systemd](./systemd_problem-solved.md)
 
 [History of systemd](./systemd_history.md)
 
@@ -104,7 +104,7 @@ It manages services, background processes, system startup, logs, timers, mounts,
 When your Linux computer boots:
 
 1. The Linux kernel initializes hardware.
-2. The kernel starts the first [userspace](./userspace) process: `systemd` (PID 1).
+2. The kernel starts the first [userspace](../userspace.md) process: `systemd` (PID 1).
 3. systemd starts the services and processes required by your system.
 4. Your login manager starts your graphical session.
 5. Your desktop environment (Hyprland) starts.

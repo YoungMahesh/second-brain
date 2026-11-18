@@ -11,7 +11,7 @@ Core theoretical principles, computer science fundamentals, and protocol standar
 - **Languages**: [[python]], [[javascript]], [[golang]], [[html]], [[css]], [[zod]]
 - **Databases**: [[mysql]], [[postgresql]], [[drizzle-orm]], [[mongodb]], [[turso]]
 - **DSA**: [[10_Foundations/dsa/algorithm-list|Algorithms List]], [[10_Foundations/dsa/concepts|Concepts]], [[sorting]], [[heaps]], [[trees]]
-- **Linux & OS**: [[Ubuntu_os_installation]], [[ssh]], [[firewall]], [[i3wm]], [[Remote GUI]]
+- **Linux & OS**: [[Ubuntu_os_installation]], [[ssh]], [[firewall]], [[i3wm]], [[Remote GUI]], [[userspace]], [[systemd]]
 - **System Design & Architecture**: [[overview|System Design Overview]], [[SOLID principles]], [[vcs (version control system)]]
 
 ### 20_Tooling

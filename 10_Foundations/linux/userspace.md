@@ -19,7 +19,7 @@ A lot of things you use in Linux run in userspace:
 | Applications        | Firefox, VS Code |
 | System utilities    | grep, systemctl  |
 
-Even [systemd](./systemd.md), which manages the boot process and system servieces, runs in userspace.
+Even [systemd](./systemd/systemd.md), which manages the boot process and system servieces, runs in userspace.
 
 ### How does userspace communicate with the kernel?
 
