@@ -25,7 +25,7 @@
 	- [grok](https://grok.com/) - free, $30/month
 	- [github-copilot](https://github.com/features/copilot) - free, $10/month for unlimited access to sonnet 3.5/3.7, openai 4o
 	- [augment code](https://www.augmentcode.com) - free (AI training permitted), $30/month (no AI training)
--  datasets
+### datasets
     - [kaggle](https://www.kaggle.com/datasets)
     - [huggingface](https://huggingface.co/docs/datasets/en/index)
     - synthetic data - generated through LLM

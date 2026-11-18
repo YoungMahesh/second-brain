@@ -175,7 +175,7 @@ await expect(locator).toBeVisible(); ✅
 
 ## 6. Timeouts (Important for Stability)
 
-[[playwright timeouts]]
+[playwright timeouts](playwright%20timeouts.md)
 
 ## 7. Test Runner (Structure & Execution)
 

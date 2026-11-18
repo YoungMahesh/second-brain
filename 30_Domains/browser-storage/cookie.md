@@ -25,7 +25,7 @@ Set-Cookie: sessionId=abc123
 
 Cookies can be secured with following flags:
 
-* `HttpOnly` → JS cannot access (protects from XSS) [[httpOnly cookie]]
+* `HttpOnly` → JS cannot access (protects from XSS) [httpOnly cookie](httpOnly%20cookie.md)
 * `Secure` → sent only over HTTPS
 * `SameSite` → prevents CSRF
 

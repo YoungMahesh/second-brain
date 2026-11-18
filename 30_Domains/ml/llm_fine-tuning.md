@@ -26,7 +26,7 @@
   - focuses on training models using explicit instructions or prompts, helping them to understand how to respond to various queries or tasks effectively
 - parameter-efficient fine-tuning (PEFT)
   - updates only a small subset of parameters during training, significantly reducing memory and computational requirements compared to full fine-tuning methods
-  - techiques such as [Low-Rank Adaptation (LoRA)](/ai/llama_fine-tuning.md) exemplify this approach
+  - techiques such as [Low-Rank Adaptation (LoRA)](llama-fine_tuning.md) exemplify this approach
 - sequential fine-tuning
   - involves adapting a model to a series of related tasks in stages, allowing it to build proficiency across multiple specialized areas while retaining broader knowledge
   - e.g. first fine-tuning a model on general news articles, then sequentially adapting it to focus on political news and later fine-tuning it further for election-related content
@@ -57,4 +57,4 @@
 
 ## open-source models
 
-- [Llama Fine Tuning](/ai/llama_fine-tuning.md)
+- [Llama Fine Tuning](llama-fine_tuning.md)

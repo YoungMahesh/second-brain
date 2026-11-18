@@ -1,5 +1,5 @@
 ### regular extensions
-- [[youtube]]
+- [youtube](../../30_Domains/services/youtube.md)
 - [control panel for twitter](https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj?hl=en&pli=1)
 
 ### occasional extesions

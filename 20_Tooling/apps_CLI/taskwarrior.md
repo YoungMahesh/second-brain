@@ -79,7 +79,7 @@ task help
 man task  # task-documentation
 task commands
 ```
-### connect taskwarrior with [[timewarrior]]
+### connect taskwarrior with [timewarrior](timewarrior.md)
 - It is better to use taskwarrior and timewarrior separately. taskwarrior for planning and timewarrior to track/log work.
 
 ```bash

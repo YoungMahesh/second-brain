@@ -1,6 +1,6 @@
 
 
-[[traefik.docker-compose]]
+[traefik.docker-compose](traefik.docker-compose.md)
 
 # Errors
 

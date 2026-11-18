@@ -1,6 +1,6 @@
 #cli/file-manipulation
 
-[[grep]]   [[less-]]   [[wc-]]
+[grep](grep.md)   [less-](less-.md)   [wc-](wc-.md)
 
 ```bash
 # find

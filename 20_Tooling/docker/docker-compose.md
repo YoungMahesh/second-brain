@@ -1,8 +1,8 @@
 
-[[docker-nodejs]]
-[[traefik.docker-compose]]
-[[20_Tooling/docker/compose-files/mysql]]
-[[phpmyadmin]]
+[docker-nodejs](docker-nodejs.md)
+[traefik.docker-compose](domain/traefik.docker-compose.md)
+[20_Tooling/docker/compose-files/mysql](compose-files/mysql.md)
+[phpmyadmin](compose-files/phpmyadmin.md)
 ## commands
 
 

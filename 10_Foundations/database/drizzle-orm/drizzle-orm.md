@@ -1,6 +1,6 @@
 
 
-[[drizzle_select]]
+[drizzle_select](drizzle_select.md)
 
 Verify if can access the database:
 ```bash

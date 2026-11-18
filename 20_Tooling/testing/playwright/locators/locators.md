@@ -1,6 +1,6 @@
 https://playwright.dev/docs/locators
 
-[[locators filter]]
+[locators filter](locators%20filter.md)
 
 Locators are the central piece of Playwright's auto-waiting and retry-ability. 
 In a nutshell, locators represent a way to find element(s) on the page at any moment.

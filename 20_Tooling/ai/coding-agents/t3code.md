@@ -17,8 +17,8 @@ curl -v http://YOUR_VPS_PUBLIC_IP:3773
 ```
 
 1. install service: `npx t3@latest service install`
-2. setup wireguard vpn [[20_Tooling/docker/compose-files/ws-easy|ws-easy]]
-3. find wireguard container gateway to host machine - [[20_Tooling/docker/compose-files/ws-easy#Connect local app with wireguard network|ws-easy]]
+2. setup wireguard vpn [ws-easy](../../docker/compose-files/ws-easy.md)
+3. find wireguard container gateway to host machine - [ws-easy](../../docker/compose-files/ws-easy.md#connect-local-app-with-wireguard-network)
 4. connect t3-code port to wireguard container gateway
 	1. find service-name of t3-code: `systemctl --user list-units --type=service | grep -i t3`
 	2. create systemd drop-in with t3-code service name, eg. If service name is `t3code.service`,  then create drop-in as:

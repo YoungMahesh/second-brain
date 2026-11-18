@@ -2,7 +2,7 @@ https://generalcompute.com
 ## pricing
 - free $200 inference credit for Minimax M2.7
 
-## setup for [[opencode_cli]]
+## setup for [opencode_cli](../coding-agents/opencode_cli.md)
 
 1. Update opencode configuration
 ```json

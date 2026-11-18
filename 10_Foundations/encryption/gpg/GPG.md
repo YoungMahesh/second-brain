@@ -95,7 +95,7 @@ gpg>save
 ```
 
 #### cause 3. subkey does not have enough trust
-- Error: gpg: `<key-id>`: There is no assurance this key belongs to the named user [[web-of-trust#Degrees of Trust]]
+- Error: gpg: `<key-id>`: There is no assurance this key belongs to the named user [web-of-trust](web-of-trust.md#degrees-of-trust)
 ```bash
 gpg --edit-key <gpg-master-key-address>
 gpg>list

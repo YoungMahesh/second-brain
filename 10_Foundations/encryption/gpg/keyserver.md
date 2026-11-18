@@ -1,4 +1,4 @@
-In the world of [[GPG]] (GNU Privacy Guard), a **keyserver** acts as a centralized, public directory for OpenPGP public keys. Think of it like a global, digital phonebook for encryption keys.
+In the world of [GPG](GPG.md) (GNU Privacy Guard), a **keyserver** acts as a centralized, public directory for OpenPGP public keys. Think of it like a global, digital phonebook for encryption keys.
 
 ### What is a Keyserver?
 
@@ -16,7 +16,7 @@ Manually sending your public key to every person you know is inefficient. By "up
 
 #### 2. Building the Web of Trust
 
-GPG uses a decentralized [[web-of-trust]] rather than a central authority. When you sign someone else’s key to vouch for their identity, you can upload that signature to a keyserver. This allows others to see who has verified that specific key, helping them decide if they should trust it.
+GPG uses a decentralized [web-of-trust](web-of-trust.md) rather than a central authority. When you sign someone else’s key to vouch for their identity, you can upload that signature to a keyserver. This allows others to see who has verified that specific key, helping them decide if they should trust it.
 
 #### 3. Key Revocation
 

@@ -35,7 +35,7 @@ button.addEventListener("click", handler);
 
 
 ##### 5. Closures holding unnecessary data
-A [[closure]] might keep variables alive event when not needed
+A [closure](closure.md) might keep variables alive event when not needed
 
 ```js
 // Version with memory-leak

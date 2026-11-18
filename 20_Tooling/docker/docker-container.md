@@ -1,4 +1,4 @@
-[[docker-nodejs]]
+[docker-nodejs](docker-nodejs.md)
 ## inspect
 
 ```bash

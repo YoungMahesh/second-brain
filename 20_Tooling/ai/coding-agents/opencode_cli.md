@@ -17,7 +17,7 @@ opencode stats --days 3 --models
 ###  opencode remote connect
 https://opencode.ai/docs/server/
 
-[[ssh#Create tunnel using `LocalForward` in ssh-config]]
+[ssh](../../../10_Foundations/linux/ssh.md#create-tunnel-using-localforward-in-ssh-config)
 
 ```bash
 # ------------------- on server -------------------

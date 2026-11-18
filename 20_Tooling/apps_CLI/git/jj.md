@@ -1,4 +1,4 @@
-[[jj architecture]]
+[jj architecture](../../../10_Foundations/vcs/jj%20architecture.md)
 
 `git`:  file-changes -> commit message -> create commit
 `jj`:  (working commit) set commit message -> file-changes -> create new commit (commit), this will commit changes to previous working commit

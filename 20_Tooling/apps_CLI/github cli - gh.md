@@ -27,7 +27,7 @@ gh workflow run build.yml --repo <org-name>/<repo-name> --ref UI-improvements
 ```
 
 Credentials management:
-You can give fine grained access to github cli by login through tokens, check [[github#Token Generation]]
+You can give fine grained access to github cli by login through tokens, check [github](../editors/github.md#token-generation)
 ```bash
 gh auth login
 # add repository deletion scope to `gh`

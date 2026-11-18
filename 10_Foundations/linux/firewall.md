@@ -6,7 +6,7 @@
 
 ### `ufw`  (Uncomplicated Firewall)
 
-[[ufw_uncomplicated-firewall]]
+[ufw_uncomplicated-firewall](ufw_uncomplicated-firewall.md)
 
 `ufw` is a user-friendly wrapper built on top of `iptables` which simplifies firewall management by translating simple commands into iptables rules.
 

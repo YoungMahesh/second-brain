@@ -46,7 +46,7 @@ docker run -it --rm --network host mysql:8.3.0 \
 
 ### connect to docker container app on same docker network
 
-1. create mysql user for app [[mysql users]]
+1. create mysql user for app [mysql users](mysql%20users.md)
 
 2. create `DATABASE_URL` string for `.env` file of app
 ```

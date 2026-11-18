@@ -5,7 +5,7 @@ A **Progressive Web App (PWA)** is a **web application that behaves like a nativ
 
 To qualify as a PWA, your app typically includes:
 
-1.  [[Service Worker]] (for offline + caching)
+1.  [Service Worker](Service%20Worker.md) (for offline + caching)
 2. **Web App Manifest** (for installability, icons, theme)
 3. **HTTPS**
 4. Responsive UI

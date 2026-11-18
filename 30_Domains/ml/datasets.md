@@ -2,7 +2,7 @@
 - datasets provides data for model training
 - many times you need to filter out data from the original data to increase precision of the model
 ## handle datasets
-- [get datasets](/bookmarks.md#datasets)
+- [get datasets](../../40_Resources/bookmarks/bookmarks.md#datasets)
 - investigate -> parse -> visualize -> assess data quality -> curate(modify) -> save
 ## examples google colab notebook
 - use dataset - [amazon reviews 2023 - appliances](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/blob/main/raw/meta_categories/meta_Appliances.jsonl)

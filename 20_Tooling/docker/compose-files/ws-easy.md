@@ -1,4 +1,4 @@
-[[10_Foundations/linux/vpn/ws-easy|ws-easy]]
+[ws-easy](../../../10_Foundations/linux/vpn/ws-easy.md)
 
 ```yml
 volumes:

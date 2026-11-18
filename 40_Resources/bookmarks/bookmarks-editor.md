@@ -1,6 +1,6 @@
 ### #bookmarks/note-taking
 - comparisons
-	- [[Obsidian vs Remnote]]
+	- [Obsidian vs Remnote](../../20_Tooling/apps_GUI/Obsidian%20vs%20Remnote.md)
 	- remnote vs neovim
 		- + remnote have hierarchical bullet-point structure is better than neovim's markdown files
 			- here you can close child bullets to take a overview and can quickly put new notes as child of existing ones
@@ -15,7 +15,7 @@
 	- around AI: notebookLM
 	- mind-map: whimsical, excalidraw, figma
 
-- [[AnyType]]
+- [AnyType](../../20_Tooling/apps_GUI/AnyType.md)
 - [remnote](https://www.remnote.com/)
 - neovim+git+github
 - [notebooklm.google.com/](https://notebooklm.google.com/)

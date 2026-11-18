@@ -11,7 +11,7 @@
 - Database
 	- docker image: MySQL + phpMyAdmin or Postgres + Adminer
 	- Drizzle ORM
-	- decimal.js to avoid [[Javascript Number problem]]
+	- decimal.js to avoid [Javascript Number problem](../../10_Foundations/languages/typescript/Javascript%20Number%20problem.md)
 - [Remote Sandboxes](./remote-sandboxes.md)
 - Web Search for AI Agents
   - [Exa AI](https://exa.ai)
@@ -34,7 +34,7 @@
 		- google-auth
 - Make localhost https
 	- [LocalTunnel](https://www.npmjs.com/package/localtunnel) - not reliable, slow and fails most of the times
-	- [[cloudflare#publish localhost to public using cloudflare domain]]
+	- [cloudflare](../../30_Domains/cloud/cloudflare.md#publish-localhost-to-public-using-cloudflare-domain)
 - MonoRepo: TurboRepo
 - PDF generation
 	- [playwright](https://www.npmjs.com/package/playwright)

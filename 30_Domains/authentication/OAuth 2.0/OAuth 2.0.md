@@ -12,11 +12,11 @@ It is defined in **RFC 6749 (2012)** and is maintained by the IETF.
 
 ---
 
-[[OAuth History]]
+[OAuth History](../OAuth%20History.md)
 
 ---
 
-[[OAuth 2.0 Flows]]  [[Authorization Flow]]
+[OAuth 2.0 Flows](OAuth%202.0%20Flows.md)  [Authorization Flow](Authorization%20Flow.md)
 
 ---
 

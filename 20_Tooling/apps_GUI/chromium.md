@@ -1,6 +1,6 @@
 #app/browser 
 
-[[chromium-extensions]]
+[chromium-extensions](chromium-extensions.md)
 
 ## search directly in gemini 
 

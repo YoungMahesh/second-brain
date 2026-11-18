@@ -1,5 +1,5 @@
 
-[[opencode_cli]]
+[opencode_cli](../coding-agents/opencode_cli.md)
 
 Launch "Opencode Desktop" from i3wm_menu: search `ai.opencode.desktop`
 ## Go plan

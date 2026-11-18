@@ -1,6 +1,6 @@
 - [Install](https://caddyserver.com/docs/install)
 
-[[caddy Caddyfile]]
+[caddy Caddyfile](caddy%20Caddyfile.md)
 
 ---
 

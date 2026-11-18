@@ -6,12 +6,12 @@ Cables, switches, signals
 
 ### 2. Data Link
 
- [[ethernet]], Wi-Fi, MAC
+ [ethernet](physical/ethernet.md), Wi-Fi, MAC
 ### 3. Network
 
-[[ip-addressing]] , ICMP, ARP
+[ip-addressing](ip-addressing.md) , ICMP, ARP
 
- [[docker-network]]  
+ [docker-network](../../20_Tooling/docker/docker-network.md)  
 
 ### 4. Transport
 
@@ -19,17 +19,17 @@ TCP, UDP
 
 ###  5. Session      
 
- Session management, [[TLS]]
+ Session management, [TLS](../encryption/TLS.md)
 
 ### 6. Presentation 
 
-Encryption, Compression, [[TLS]]
+Encryption, Compression, [TLS](../encryption/TLS.md)
 
 ###  7. Application  
 
  HTTP, FTP, SMTP, DNS   
  
- [[ssh]] 
+ [ssh](../linux/ssh.md) 
 
 
 ---

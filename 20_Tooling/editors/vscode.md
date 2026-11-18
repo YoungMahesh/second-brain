@@ -1,9 +1,9 @@
-[[vscode-keymaps]]
-[[vscode-extensions]]
+[vscode-keymaps](vscode-keymaps.md)
+[vscode-extensions](vscode-extensions.md)
 
 ### basic interaction
 
-[[editor-keymaps#vscode keymaps]]
+[editor-keymaps](editor-keymaps.md#vscode-keymaps)
 
 ```bash
 #------------------- Explorer/Files-section ---------------------------

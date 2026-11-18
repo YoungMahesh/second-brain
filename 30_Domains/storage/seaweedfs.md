@@ -42,7 +42,7 @@ volumes:
 ```
 
 
-3. Browse using [[rclone]] v1.74.4
+3. Browse using [rclone](../../20_Tooling/apps_CLI/rclone.md) v1.74.4
 	- With Rclone you can browse using both terminal and GUI
 ```conf
 [local-weed]
@@ -55,7 +55,7 @@ acl = private
 ```
 
 
-3. Browse using [[s3cmd]] v2.4.0 
+3. Browse using [s3cmd](s3cmd.md) v2.4.0 
 ```s3cfg
 # create file at ~/.s3cfg with content:
 

@@ -1,1 +1,1 @@
-[[ethernet]]
+[ethernet](ethernet.md)

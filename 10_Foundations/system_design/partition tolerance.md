@@ -8,5 +8,5 @@ CAP (Consistency, Availability and Partition tolerance) theorem states in the pr
 
 ## How systems handle partition tolerance
 - AP (Availability + Partition tolerance) Systems: sacrifice availability during partition to maintain consistency (e.g. HBase)
-	- [[consistency#eventual consistency]]
+	- [consistency](consistency.md#eventual-consistency)
 - CP (Consistency + Partition tolerance) Systems: sacrifice consistency during a partition to remain available (e.g. DynamoDB)

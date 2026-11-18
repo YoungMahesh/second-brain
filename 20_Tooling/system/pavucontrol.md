@@ -9,7 +9,7 @@ pavucontrol
 ```
 
 ### manage input/output device during call
-- NOTE: your audio-profile in [[blueman]] must be set at one of the - `HeadSet Head Unit` type
+- NOTE: your audio-profile in [blueman](../apps_CLI/blueman.md) must be set at one of the - `HeadSet Head Unit` type
 	- To select audio profile: `blueman-manager` -> right-click on bluetooth-device -> Audio-profile
 	- Test which profile is supported by your device using app like - Perplexity Voice Chat	
 - select input/microphone device

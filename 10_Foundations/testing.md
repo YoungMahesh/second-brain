@@ -5,4 +5,4 @@
 
 ## Security
 
-[[mysql-binary_log]]
+[mysql-binary_log](database/sql/mysql/mysql-binary_log.md)

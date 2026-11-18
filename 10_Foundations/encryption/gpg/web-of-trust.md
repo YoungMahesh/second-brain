@@ -1,4 +1,4 @@
-The **Web of Trust (WoT)** is a decentralized trust model used by PGP, [[GPG]], and other OpenPGP-compatible systems to establish the authenticity of the binding between a public key and its owner.
+The **Web of Trust (WoT)** is a decentralized trust model used by PGP, [GPG](GPG.md), and other OpenPGP-compatible systems to establish the authenticity of the binding between a public key and its owner.
 The Web of Trust relies on individual users to vouch for one another.
 
 ---

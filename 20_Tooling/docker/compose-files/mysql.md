@@ -59,7 +59,7 @@ docker exec -it mysql1 \
 ```
 
 ### restore specific content of the database
-- restore data lost due to specific query - [[mysql-binary_log]]
+- restore data lost due to specific query - [mysql-binary_log](../../../10_Foundations/database/sql/mysql/mysql-binary_log.md)
 
 ### restore whole database
 ```bash

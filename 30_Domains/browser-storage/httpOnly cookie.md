@@ -1,4 +1,4 @@
-An **HttpOnly cookie** is just a [[cookie]] with a special flag:
+An **HttpOnly cookie** is just a [cookie](cookie.md) with a special flag:
 
 ```http
 Set-Cookie: sessionId=abc123; HttpOnly

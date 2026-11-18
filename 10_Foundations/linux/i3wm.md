@@ -1,6 +1,6 @@
 - [implementation](https://github.com/YoungMahesh/dotfiles/tree/main/i3)
 - i3 window manager
-- [[Bluetooth]]
+- [Bluetooth](../../20_Tooling/system/bluetooth.md)
 
 
 ```bash

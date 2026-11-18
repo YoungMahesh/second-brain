@@ -1,6 +1,6 @@
 #app/messaging 
 
-[[Ubuntu_os_installation#install from snap-store]]
+[Ubuntu_os_installation](../../10_Foundations/linux/Ubuntu_os_installation.md#install-from-snap-store)
 ### Desktop app
 - you can select microphone and output for Telegram call
 	- Telegram call-ui -> microphone icon -> `^` icon 

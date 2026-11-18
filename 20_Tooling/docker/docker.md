@@ -1,5 +1,5 @@
-[[docker-image]]   [[docker-compose]]  
-[[docker-container]]    [[docker_run]]
+[docker-image](docker-image.md)   [docker-compose](docker-compose.md)  
+[docker-container](docker-container.md)    [docker_run](docker_run.md)
 ## commands
 ```bash
 

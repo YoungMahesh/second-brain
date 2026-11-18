@@ -44,7 +44,7 @@ networks:
 ```
 
 
-Setup [[caddy]]  and [[caddy#Basic Authentication]]
+Setup [caddy](domain/caddy.md)  and [caddy](domain/caddy.md#basic-authentication)
 ```Caddyfile
 registry.example.com {
     basic_auth {

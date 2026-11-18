@@ -12,7 +12,7 @@ https://github.com/openemr/openemr/blob/master/API_README.md#-quick-start
 
 Visit: Top bar → Admin → System → API Clients → Register New App → App Registration Form
 
-> We are creating OAuth2 connection [[Authorization Flow with PCKE implementation - website]]
+> We are creating OAuth2 connection [Authorization Flow with PCKE implementation - website](../authentication/OAuth%202.0/Authorization%20Flow%20with%20PCKE%20implementation%20-%20website.md)
 
 Application Type: Confidential
 Application Context: Multipurpose Application

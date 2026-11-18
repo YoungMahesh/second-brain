@@ -1,5 +1,5 @@
-Concepts, Troubleshooting: [[ws-easy_troubleshoot]]
-Docker compose: [[20_Tooling/docker/compose-files/ws-easy|ws-easy]]
+Concepts, Troubleshooting: [ws-easy_troubleshoot](ws-easy_troubleshoot.md)
+Docker compose: [ws-easy](../../../20_Tooling/docker/compose-files/ws-easy.md)
 
 ## Setup wireguard on server using wg-easy
 1. https://wg-easy.github.io/wg-easy/latest/examples/tutorials/basic-installation/

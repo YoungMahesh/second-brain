@@ -1,4 +1,4 @@
-[[node]] [[npm]]
+[node](node.md) [npm](npm.md)
 
 ### basic commands
 

@@ -51,7 +51,7 @@
 	- when user open an HTTPS website, browser gets server's public key
 	- It uses that public key to securely send a one-time random symmetric key
 	- All data (HTML, video, API calls, images, etc) is encrypted using AES or ChaCha20 which is very fast
-- [[GPG]]
+- [GPG](gpg/GPG.md)
 	- RSA + AES  + packet structure
 ## key derivation
 

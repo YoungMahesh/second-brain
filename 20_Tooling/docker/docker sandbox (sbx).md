@@ -1,4 +1,4 @@
-## setup [[Antigravity#Antigravity CLI]]
+## setup [Antigravity](../ai/coding-agents/Antigravity%28agy%29.md#antigravity-cli)
 
 ```bash
 # cd into your project directory, create sandbox with:

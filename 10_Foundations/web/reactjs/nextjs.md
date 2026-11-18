@@ -1,7 +1,7 @@
 #web-development/framework
 # App router
 
-[[CORS#CORS handling in Next.js API routes]]
+[CORS](../CORS.md#cors-handling-in-nextjs-api-routes)
 
 ### documentation
 

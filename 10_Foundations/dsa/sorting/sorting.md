@@ -1,6 +1,6 @@
 ### radix sort
 
-[radix-sort-diagram](radix-sort.excalidraw.md)
+[radix-sort-diagram](radix-sort.excalidraw.png)
 Radix sort is a non-comparative sorting algorithm that works by sorting elements digit by digit. This is done by creating buckets for each digit value, and then distributing the elements into the appropriate buckets. This process is then repeated for each digit, starting with the least significant digit and moving to the most significant digit.
 
 ```python

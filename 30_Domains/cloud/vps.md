@@ -1,7 +1,7 @@
 - VPS means *virtual private server* here
 
-- [connect to vps with ssh](ssh.md)
-- [[kitty#kitty on remote server]]
+- [connect to vps with ssh](../../10_Foundations/linux/ssh.md)
+- [kitty](../../20_Tooling/apps_CLI/terminal/kitty.md#kitty-on-remote-server)
 
 ```bash
 # connect to vps with username and passowd
@@ -9,7 +9,7 @@ ssh username@<ip-address>
 # ssh username@<ip-address> -o IdentitiesOnly=yes
 ```
 
-Transfer files to VPS: [[scp]]
+Transfer files to VPS: [scp](../../20_Tooling/apps_CLI/scp.md)
 
 
 # publish files on server to internet

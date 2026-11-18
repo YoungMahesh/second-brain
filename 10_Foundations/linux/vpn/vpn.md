@@ -1,3 +1,3 @@
-[[tailscale]]
+[tailscale](tailscale.md)
 
-[[10_Foundations/linux/vpn/ws-easy|ws-easy]]
+[ws-easy](ws-easy.md)

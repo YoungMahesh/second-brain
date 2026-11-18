@@ -1,6 +1,6 @@
 #llm/provider  
 ## best plans
-1. [[opencode#Go plan]] - $10/month
+1. [opencode](opencode.md#go-plan) - $10/month
 	- $60 worth of usage per month for top open-source models
 	- provides API key which can be used in other apps
 2. [Google Antigravity](https://antigravity.google/)
@@ -10,15 +10,15 @@
 	- does not  provide API key to use in other apps
 4. [Nvidia build](https://build.nvidia.com/) 
 	- sufficient free quota
-5. [[ollama cloud#pricing]] - $20/month
+5. [ollama cloud](ollama%20cloud.md#pricing) - $20/month
 	- sufficient token usage for top chinese models
 6. (temporary) [General Compute](https://generalcompute.com) 
 	- $200 inference credit for Minimax M2.7
 
 --- 
-## [[github-copilot]]
+## [github-copilot](../coding-agents/github-copilot.md)
 
-## [[OpenAI]]
+## [OpenAI](OpenAI.md)
 
 ## Google
 ### [gemini cli](https://github.com/google-gemini/gemini-cli)
@@ -75,7 +75,7 @@
 - free models requests: 1000 / day
 	- keep >$10 balance in account
 	- can be used wit kilo-code and cline
-## [[perplexity]]
+## [perplexity](../../../30_Domains/services/perplexity.md)
 - one-time: 1 year free pro version offer for Airtel-customers in India.
 
 ## groq

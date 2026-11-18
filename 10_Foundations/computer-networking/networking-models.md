@@ -2,8 +2,8 @@ Computer network models are used to represent how data is transmitted and proces
 
 ---
 
-- [[osi-model]] is a **theoretical, 7-layer model** used for understanding and teaching networking concepts.
-- [[tcp-ip-model]] is a **practical, 4-layer model** that forms the foundation of the Internet.
+- [osi-model](osi-model.md) is a **theoretical, 7-layer model** used for understanding and teaching networking concepts.
+- [tcp-ip-model](tcp-ip-model.md) is a **practical, 4-layer model** that forms the foundation of the Internet.
 
 ---
 
