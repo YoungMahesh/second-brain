@@ -35,3 +35,13 @@ new_tab = "prefix+t"
 [keys.indexed]
 tabs = "ctrl"       # e.g. "ctrl" makes ctrl+1..9 switch tabs directly
 ```
+
+### connect herdr mobile app to herdr on remote server
+1. Connect both devices to [tailscale network](10_Foundations/linux/vpn/tailscale.md)
+2. From tailscale dashboard (Network -> Machines), click 'Setup SSH' on remote-server device
+3. Open herdr app -> Click 'Connect new machine'
+    - Address: \<tailscale-name-of-remote-server>
+    - User: \<username on remote-server> (e.g. root)
+    - Port: 22
+4. After clicking connect, you will be asked to authenticate ssh connection from mobile-phone to remove-server through tailscale login from browser
+5. Authenticate, and you are connected.
