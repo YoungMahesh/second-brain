@@ -20,3 +20,11 @@ voxtype setup --download
 # start voxtype
 systemctl --user restart voxtype
 ```
+
+### 3. define key for dictation
+
+Update `~/.config/hypr/bindings.lua` with this command:
+```lua
+-- start and stop voxtype recording with contrl+0 key
+o.bind("CTRL+0", "Toggle dictation", "voxtype record toggle")
+```
