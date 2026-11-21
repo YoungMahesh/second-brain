@@ -1,3 +1,4 @@
+### TLS in transit
 In PostgreSQL connection string, `sslmode` controls whether TLS encryption is used and how strictly the client verifies the server's identity.
 
 Example:
@@ -6,7 +7,7 @@ Example:
 postgresql://user:password@db.example.com:5432/mydb?sslmode=verify-full
 ```
 
-## PostgreSQL `sslmode` options
+### PostgreSQL `sslmode` options
 
 | Mode        | Encrypts connection?    | Verifies server certificate? | Verifies hostname? |
 | ----------- | ----------------------- | ---------------------------- | ------------------ |
