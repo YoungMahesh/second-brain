@@ -1,7 +1,7 @@
 [project]
-site_name = "Universal Documentation"
-site_description = "Knowledge vault for software engineering, system architecture, tools, and domain knowledge."
-site_url = "https://youngmahesh.github.io/universal_documentation/"
+site_name = "Second Brain"
+site_description = "Second brain knowledge vault for software engineering, system architecture, tools, and domain knowledge."
+site_url = "https://youngmahesh.github.io/second-brain/"
 docs_dir = "docs"
 site_dir = "site"
 

@@ -1,7 +1,7 @@
 [project]
-name = "universal-documentation"
+name = "second-brain"
 version = "0.1.0"
-description = "Universal documentation and knowledge vault static HTML documentation"
+description = "Second brain and knowledge vault static HTML documentation"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

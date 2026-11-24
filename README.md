@@ -1,4 +1,4 @@
-# Universal Documentation
+# Second Brain
 
 Knowledge vault organized using a modified Johnny Decimal / PARA taxonomy for software engineering, system architecture, tools, and domain knowledge.
 
