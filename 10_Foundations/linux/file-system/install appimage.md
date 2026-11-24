@@ -17,7 +17,7 @@
 
 > "$@" in a shell script means: “all arguments passed to this script”
 
-### Add app.AppImage to GNOME application menu
+### Add app.AppImage to GNOME or OmarchyOS application menu
 
 1. make appimage executable `chmod +x <name>.appimage`
 2. move .appimage to `~/.local/appimages`
@@ -30,11 +30,13 @@
      Name=Your App Name
      Exec=/path/to/your/YourAppImage.AppImage
      Icon=/path/to/your/app-icon.png
+     # You can use pre-defined application icon, e.g.
+     # Icon=applications-development
      Type=Application
      Categories=Utility;TextEditor;Development;IDE
      Comment=Brief description of your app
-	 # app can open: plain text files, JSON files
-	 MimeType=text/plain;application/json;
+  	 # app can open: plain text files, JSON files
+  	 MimeType=text/plain;application/json;
      ```
    - make desktop entry file executable: `chmod +x .local/share/applications/yourapp.desktop`
    - update desktop-database: `update-desktop-database ~/.local/share/applications/`
